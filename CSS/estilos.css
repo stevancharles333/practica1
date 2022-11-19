@@ -1,0 +1,29 @@
+h1{
+    color:black;
+}
+#cabeceraWeb{
+    background-color: chartreuse;
+}
+#linea{
+    background-color: coral;
+}
+#barradeNavegacionPrincipal{
+    background-color: darkolivegreen;
+}
+#barralateral{
+    background-color: darkgreen;
+    float: left;
+    height: 2750px;
+}
+#contenidoprincipal{
+    background-color: rgb(218, 14, 14);
+    margin-left: 200px;
+}
+#pieprincipal{
+    background-color: darkmagenta;
+}
+li{
+    background-color:aqua;
+    display: inline;
+    
+}
